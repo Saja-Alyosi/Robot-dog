@@ -6,16 +6,19 @@
 
 ## 📖 Table of Contents
 
-1. [Project Overview](#project-overview)
-2. [Components & Parts List](#components--parts-list)
-3. [Design & 3D Printing Process](#design--3d-printing-process)
-4. [Hardware Assembly](#hardware-assembly)
-5. [Electrical Wiring & Connections](#electrical-wiring--connections)
-6. [Programming with Arduino UNO](#programming-with-arduino-uno)
-7. [Programming with ESP32](#programming-with-esp32)
-8. [Code Comparison: Arduino vs ESP32](#code-comparison-arduino-vs-esp32)
-9. [Troubleshooting & Tips](#troubleshooting--tips)
-10. [Project Photos](#project-photos)
+## 📋 Table of Contents
+
+1. [Project Overview](#1-project-overview)
+2. [Components & Parts List](#2-components--parts-list)
+3. [Design & 3D Printing Process](#3-design--3d-printing-process)
+4. [Hardware Assembly](#4-hardware-assembly)
+5. [Electrical Wiring & Connections](#5-electrical-wiring--connections)
+6. [Programming with Arduino UNO](#6-programming-with-arduino-uno)
+7. [Programming with ESP32](#7-programming-with-esp32)
+8. [Code Comparison: Arduino vs ESP32](#8-code-comparison-arduino-vs-esp32)
+9. [Troubleshooting & Tips](#9-troubleshooting--tips)
+10. [Project Photos](#10-project-photos)
+    
 ---
 
 ## 🎯 Overview

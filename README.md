@@ -18,7 +18,6 @@
 - [💻 Arduino Code](#arduino-code)
 - [🚀 ESP32 Code](#esp32-code)
 - [📊 Comparison](#comparison)
-- [🔧 Troubleshooting](#troubleshooting)
 - [📸 Photos](#photos)
 
 ---
@@ -443,22 +442,7 @@ void robotWalkSmooth() {
    └─ Check Serial output
 ```
 
-### ❌ Jerky/Stuttering Motion
 
-**Solutions:**
-```
-Arduino:
-  ├─ Reduce Serial.print() calls
-  ├─ Increase delay values
-  ├─ Remove other code from loop()
-  └─ Check power supply voltage
-
-ESP32:
-  ├─ Use ESP32 (much faster)
-  ├─ Increase delay values slightly
-  ├─ Upgrade power supply to 3A
-  └─ Add cooling breaks between cycles
-```
 ---
 
 ## ⚙️ Specifications

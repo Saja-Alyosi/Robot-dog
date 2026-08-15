@@ -148,8 +148,8 @@ Upload code to microcontroller → Test walking pattern → Calibrate gait
 │ Back Right (BR)  → Digital Pin 6    │
 │ Back Left (BL)   → Digital Pin 9    │
 ├─────────────────────────────────────┤
-│ Power:           +5V                 │
-│ Ground:          GND                 │
+│ Power:           +5V                │
+│ Ground:          GND                │
 └─────────────────────────────────────┘
 ```
 
@@ -164,8 +164,8 @@ Upload code to microcontroller → Test walking pattern → Calibrate gait
 │ Back Right (BR)  → GPIO 21          │
 │ Back Left (BL)   → GPIO 22          │
 ├─────────────────────────────────────┤
-│ Power:           +5V                 │
-│ Ground:          GND                 │
+│ Power:           +5V                │
+│ Ground:          GND                │
 └─────────────────────────────────────┘
 ```
 
@@ -555,12 +555,6 @@ By completing this project, you'll master:
 - [ESP32 Documentation](https://docs.espressif.com/)
 - [Servo Motor Datasheet](https://servo-datasheet.pdf)
 
-### Video Tutorials
-- Arduino Servo Control Basics
-- ESP32 Getting Started
-- 3D Printing Optimization
-- Quadruped Robotics Principles
-
 ---
 
 ## 🚀 Future Enhancements
@@ -573,21 +567,6 @@ By completing this project, you'll master:
 - [ ] Implement voice control
 - [ ] Machine learning gait optimization
 - [ ] Multi-robot swarm coordination
-
----
-
-## 📝 Project Stats
-
-| Metric | Value |
-|--------|-------|
-| **Total Build Time** | 20-30 hours |
-| **Design Time** | 3-5 hours |
-| **Print Time** | 10-12 hours |
-| **Assembly Time** | 3-4 hours |
-| **Programming Time** | 2-3 hours |
-| **Testing & Calibration** | 2-3 hours |
-| **Estimated Cost** | $50-100 USD |
-| **Difficulty Level** | ⭐⭐⭐ Intermediate |
 
 ---
 
@@ -626,29 +605,6 @@ Angle 90:   Standing (neutral)
 Angle 120:  Leg forward/up
 Angle 60:   Leg backward/down
 ```
-
----
-
-## 📄 License
-
-This project is for **educational purposes**. Free to use, modify, and distribute with attribution.
-
----
-
-## 🤝 Contributing
-
-Found a bug? Have improvements? Feel free to submit issues and pull requests!
-
----
-
-## ✉️ Support
-
-For questions or issues:
-1. Check the Troubleshooting section
-2. Review servo motor datasheet
-3. Test components individually
-4. Consult robotics communities
-5. Check GitHub Issues
 
 ---
 

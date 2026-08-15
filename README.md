@@ -31,11 +31,6 @@ Build a **fully functional quadruped walking robot** with:
 - ✅ Arduino UNO or ESP32 Control
 - ✅ Natural Trotting Gait Pattern
 - ✅ Breadboard-Based Electronics
-
-**Total Build Time:** 20-30 hours  
-**Estimated Cost:** $50-100  
-**Difficulty Level:** ⭐⭐⭐ Intermediate
-
 ---
 
 ## 📦 Components

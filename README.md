@@ -459,36 +459,6 @@ ESP32:
   ├─ Upgrade power supply to 3A
   └─ Add cooling breaks between cycles
 ```
-
-### ❌ Robot Walks in Circles
-
-**Diagnosis:**
-```
-Cause #1: Servo Calibration Mismatch
-  └─ Solution: Recalibrate each servo independently
-
-Cause #2: Unequal Leg Lengths
-  └─ Solution: Check 3D-printed leg dimensions
-
-Cause #3: Friction Asymmetry
-  └─ Solution: Apply light lubricant to all joints
-
-Cause #4: Weight Distribution
-  └─ Solution: Balance electronics weight on both sides
-```
-
-### ❌ Servo Overheating
-
-**Solutions:**
-```
-├─ Clear any mechanical obstructions
-├─ Ensure servo can rotate freely
-├─ Upgrade power supply (3A recommended)
-├─ Add 5-10 second break between walking cycles
-├─ Check for servo stalling
-└─ Reduce continuous duty cycle
-```
-
 ---
 
 ## ⚙️ Specifications

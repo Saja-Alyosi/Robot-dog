@@ -610,10 +610,6 @@ Angle 60:   Leg backward/down
 
 <div align="center">
 
-### 🐾 Happy Building! 🤖
-
-**Made with ❤️ for robotics enthusiasts**
-
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-August%202026-blue?style=flat-square)
 ![Version](https://img.shields.io/badge/Version-2.0-success?style=flat-square)
 

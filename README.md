@@ -532,28 +532,6 @@ By completing this project, you'll master:
 
 ---
 
-## 🎯 Quick Reference
-
-### Pin Assignments
-```
-Arduino:  3, 5, 6, 9 (PWM)
-ESP32:   18, 19, 21, 22 (GPIO)
-```
-
-### Servo Commands
-```cpp
-servo.attach(pin);          // Attach to pin
-servo.write(angle);         // Set angle (0-180)
-servo.read();               // Get current angle
-servo.detach();             // Release servo
-```
-
-### Walking Pattern
-```
-Angle 90:   Standing (neutral)
-Angle 120:  Leg forward/up
-Angle 60:   Leg backward/down
-```
 
 ---
 

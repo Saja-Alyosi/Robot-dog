@@ -6,16 +6,6 @@
 
 ## 📖 Table of Contents
 
-- [🎯 Overview](#overview)
-- [📦 Components](#components)
-- [🏗️ Project Phases](#project-phases)
-- [⚡ Pin Configuration](#pin-configuration)
-- [🔌 Wiring Diagram](#wiring-diagram)
-- [💻 Arduino Code](#arduino-code)
-- [🚀 ESP32 Code](#esp32-code)
-- [📊 Comparison](#comparison)
-- [📸 Photos](#photos)
-
 ---
 
 ## 🎯 Overview

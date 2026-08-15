@@ -2,10 +2,6 @@
 
 > **Four-Legged Walking Robot | Arduino UNO & ESP32 Complete Guide**
 
-![Robot Dog](https://img.shields.io/badge/Status-Complete-success?style=flat-square)
-![License](https://img.shields.io/badge/License-Educational-blue?style=flat-square)
-![Level](https://img.shields.io/badge/Level-Intermediate-yellow?style=flat-square)
-
 ---
 
 ## 📖 Table of Contents
@@ -416,33 +412,6 @@ void robotWalkSmooth() {
 
 ---
 
-## 🔧 Troubleshooting
-
-### ❌ Servos Not Moving
-
-**Causes & Solutions:**
-```
-┌─ Check Power Supply
-│  └─ Verify 5V output (not USB power)
-│  └─ Use 2A minimum power supply
-│
-├─ Check Connections
-│  └─ All grounds connected to same point
-│  └─ Signal wires on correct pins
-│  └─ No loose jumper wires
-│
-├─ Test Servo
-│  └─ Try servo on different pin
-│  └─ Verify servo horn moves freely
-│  └─ Check for mechanical binding
-│
-└─ Debug Code
-   └─ Confirm pin numbers match
-   └─ Test with simpler code
-   └─ Check Serial output
-```
-
-
 ---
 
 ## ⚙️ Specifications
@@ -499,11 +468,6 @@ By completing this project, you'll master:
 - **Arduino IDE:** https://www.arduino.cc/ (Programming)
 - **Tinkercad:** https://www.tinkercad.com/ (Circuit Simulation)
 
-### Documentation
-- [Arduino Servo Library](https://www.arduino.cc/en/Reference/Servo)
-- [ESP32 Documentation](https://docs.espressif.com/)
-- [Servo Motor Datasheet](https://servo-datasheet.pdf)
-
 ---
 
 ## 🚀 Future Enhancements
@@ -518,20 +482,6 @@ By completing this project, you'll master:
 - [ ] Multi-robot swarm coordination
 
 ---
-
-## 💡 Pro Tips
-
-1. **Start with Arduino UNO** - Easier for learning
-2. **Test servos individually** before full assembly
-3. **Use external power supply** - Never rely on USB power
-4. **Document your wiring** - Take photos for reference
-5. **Calibrate servos carefully** - This affects walking quality
-6. **Add cooling breaks** - Prevent servo overheating
-7. **Keep code modular** - Easy to modify & debug
-8. **Back up your code** - Save to GitHub or cloud
-
----
-
 
 ---
 

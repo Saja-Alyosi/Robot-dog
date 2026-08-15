@@ -448,16 +448,13 @@ By completing this project, you'll master:
 ## 📸 Photos
 
 ### 📷 Image 1: Complete Assembly
-![Image 1 Placeholder](https://via.placeholder.com/500x400?text=Complete+Assembly)
-*The robot in its final assembled state with all servo motors mounted*
+![Image 1 Placeholder](<img width="896" height="1200" alt="image" src="https://github.com/user-attachments/assets/5e094c93-116b-4fff-9bda-e09db542bac9" />)
 
 ### 📷 Image 2: Electronics & Wiring
-![Image 2 Placeholder](https://via.placeholder.com/500x400?text=Electronics+Detail)
-*Detailed view of servo connections and breadboard layout*
+![Image 2 Placeholder](<img width="896" height="1200" alt="image" src="https://github.com/user-attachments/assets/fe48cf5e-eb41-4d73-834c-dfc15eb377bb" />)
 
 ### 📷 Image 3: Mechanics & Legs
-![Image 3 Placeholder](https://via.placeholder.com/500x400?text=Leg+Mechanics)
-*Underneath view showing servo mounts and leg articulation*
+![Image 3 Placeholder](<img width="896" height="1200" alt="image_43ab8e97" src="https://github.com/user-attachments/assets/5b4ad5d1-e3c6-4c8c-b53d-d15f1af1b539" />)
 
 ---
 
@@ -467,6 +464,7 @@ By completing this project, you'll master:
 - **OnShape:** https://www.onshape.com/ (CAD Design)
 - **Arduino IDE:** https://www.arduino.cc/ (Programming)
 - **Tinkercad:** https://www.tinkercad.com/ (Circuit Simulation)
+  
 
 ---
 
